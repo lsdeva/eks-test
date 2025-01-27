@@ -53,7 +53,7 @@ aws ec2 create-tags --resources subnet-yyyyy1 subnet-yyyyy2 --tags Key=kubernete
 ### **Updated Commands in AWS CloudShell**
 
 #### Create NAT Gateways:
-Use a separate AWS script to create NAT gateways.
+[Use a separate  script to create NAT gateways.] (https://github.com/lsdeva/eks-test/blob/main/create%20cluster/create-nat-gateway.sh)
 
 #### Create the Cluster:
 ```bash
