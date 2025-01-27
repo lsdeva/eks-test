@@ -141,4 +141,3 @@ kubectl apply -f guestbookapplication.yaml
 
 ---
 
-This rewritten version ensures sensitive information like resource IDs is masked. Let me know if you need further adjustments!
