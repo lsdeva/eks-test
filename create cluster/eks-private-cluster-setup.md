@@ -1,4 +1,4 @@
-Here is the rewritten version with masking for the VPC, subnets, and other specific resource identifiers:
+
 
 ---
 
