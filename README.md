@@ -3,7 +3,7 @@
 
 This repository contains configuration files and instructions for setting up an Amazon EKS cluster.
 
-## Subfolder: `create cluster`
+##  `create cluster`
 
 ### Files:
 
@@ -11,5 +11,5 @@ This repository contains configuration files and instructions for setting up an 
    - **Description**: Contains the configuration details required for creating an EKS cluster.
 
 2. [eks-private-cluster-setup.md](create%20cluster/eks-private-cluster-setup.md)
-   - **Description**: Step-by-step instructions for deploying a private EKS cluster with limited internet access, including VPC endpoints and workload setup.
+   - **Description**: Step-by-step instructions for deploying a private EKS cluster with internet access, including VPC endpoints and workload setup.
 
